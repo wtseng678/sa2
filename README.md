@@ -27,7 +27,7 @@ After you complete each prompt, assign a grade to each item in the Grading Outli
 ### Grading Outline
 
 - [ ] algo-time-complexity (Complete)
-- [ ] js-inheritance-pseudo-classical-alt
+- [ ] js-inheritance-pseudo-classical-alt (Complete)
 - [ ] chat-client-fixme (Complete)
 
 ### Grading Scale
