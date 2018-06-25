@@ -9,3 +9,5 @@ Inside of `algo-time-complexity.js`, identify the time complexity of the followi
 
 ### Available Resources for this Prompt
   * MDN
+
+(All complete)
